@@ -2,7 +2,6 @@ import React  from "react";
 import Header from "./Component/Header";
 import Main from "./Component/Main";
 import Footer from "./Component/Footer";
-
 class App extends React.Component{
 
   render(){
@@ -12,7 +11,6 @@ class App extends React.Component{
       <Header />
       <Main />
       <Footer />
-      
     </>
     )
   }
